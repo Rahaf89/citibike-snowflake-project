@@ -1,0 +1,17 @@
+# Raw Citi Bike data
+data/
+*.csv
+*.csv.gz
+*.zip
+
+# Snowflake credentials
+.env
+*.ini
+
+# Python
+__pycache__/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
